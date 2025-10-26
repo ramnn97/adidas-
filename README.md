@@ -108,6 +108,7 @@ Contributions are welcome! If you spot a bug, want to add a new feature, or impr
 
 
 
-[![Instagram](https://www.instagram.com/ramnn.1/) 
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/ramnn.1/)
+
 
 
