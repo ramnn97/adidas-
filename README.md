@@ -94,26 +94,8 @@ Open http://localhost:3000.
 npm run build
 npm run start
 ```
----
 
-## 🧠 What You’ll Learn / Why Use This
 
-This repo demonstrates how to blend modern UI and immersive 3D in a production-grade, high-performance web experience. If you're aiming to:
-
-- Build portfolio-level interactive websites
-- Level up in React + Three.js
-- Learn real-world optimizations (preload, lazy load, smooth transitions)
-- Understand scalable file structure and clean code
-  
-…then this is a solid starting point.
-
----
-
-## 🔗 Assets
-
-Assets used in the project can be found [here](https://drive.google.com/file/d/1NjKulhW4iobgekZAK3YWm8EyeLxL3mOZ/view?usp=drive_link)
-
----
 
 ## 📖 Contributing
 
@@ -124,23 +106,8 @@ Contributions are welcome! If you spot a bug, want to add a new feature, or impr
 3. Make your changes & test
 4. Submit a Pull Request
 
-Please keep PRs focused, include tests or screenshots when possible, and describe your change.
 
-## 📬 Contact Me
 
-If you have questions or ideas, feel free to open an issue or reach me
+[![Instagram](https://www.instagram.com/ramnn.1/) 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ali.sanatidev/reels/) 
-[![Static Badge](https://img.shields.io/badge/Youtube-%23FF0033?style=flat&logo=youtube)](https://www.youtube.com/channel/UCZhtUWTtk3bGJiMPN9T4HWA)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-sanati/) 
-[![TikTok](https://img.shields.io/badge/tiktok-black?style=flat&logo=TikTok)](https://www.tiktok.com/@ali_sanati_dev)
-[![X](https://img.shields.io/badge/X-black?style=flat&logo=x
-)](https://x.com/Ali_Sanati_Dev)
 
-Thanks for checking it out! 🙌
-
----
-
-## ⭐ Like This Project?
-
-Star the repo and [subscribe](https://www.youtube.com/channel/UCZhtUWTtk3bGJiMPN9T4HWA??sub_confirmation=1) to the YouTube channel for more dev content!
