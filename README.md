@@ -1,4 +1,4 @@
-# Awwwards-Winning 3D adidas Landing Page (Next.js + Three.js)
+
 
 
 <div style="display: flex; flex-direction: column; width: 100%; gap: 20px; align-items: center;"> 
@@ -73,13 +73,6 @@ public/
 - npm or Yarn or pnpm  
 - Basic familiarity with React / Three.js  
 
-### Installation
-
-```bash
-git clone https://github.com/Ali-Sanati/awwwards-adidas.git
-cd awwwards-adidas
-npm install
-```
 
 ### Development
 
